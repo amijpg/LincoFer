@@ -8,7 +8,7 @@ function Producto(id, nombre, precio, imagen, categoria) {
   }
 
   let productos = [];  
-  let carrito = [];
+  let carrito = JSON.parse(localStorage.getItem("carrito")) || [];
   let total = 0;
   
   function guardarCarrito() {
