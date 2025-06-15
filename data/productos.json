@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Líquido de lavandería 1L",
+    "precio": 7990,
+    "imagen": "images/liquido-lavanderia-1l.png",
+    "categoria": "detergente"
+  },
+  {
+    "id": 2,
+    "nombre": "Líquido de lavandería 2L",
+    "precio": 13990,
+    "imagen": "images/liquido-lavanderia-2l.png",
+    "categoria": "detergente"
+  },
+  {
+    "id": 3,
+    "nombre": "Mix 1 LincoFer",
+    "precio": 20990,
+    "imagen": "images/mix1-lincofer.png",
+    "categoria": "mix"
+  },
+  {
+    "id": 4,
+    "nombre": "Mix 2 LincoFer",
+    "precio": 30990,
+    "imagen": "images/mix2-lincofer.png",
+    "categoria": "mix"
+  },
+  {
+    "id": 5,
+    "nombre": "Multi Limpiador",
+    "precio": 5990,
+    "imagen": "images/multi-limpiador.png",
+    "categoria": "multi"
+  },
+  {
+    "id": 6,
+    "nombre": "Suavizante de ropa 3L",
+    "precio": 13990,
+    "imagen": "images/suavizante-ropa-3l.png",
+    "categoria": "suavizante"
+  },
+  {
+    "id": 7,
+    "nombre": "Suavizante de ropa 1L",
+    "precio": 7990,
+    "imagen": "images/suavizante-ropa-1l.png",
+    "categoria": "suavizante"
+  }
+]
